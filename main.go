@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	intro.HelloWorld() // Function calls go here
+	intro.ForLoop()
 }
